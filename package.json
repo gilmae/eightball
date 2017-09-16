@@ -1,0 +1,22 @@
+{
+  "name": "eightball-extensible",
+  "version": "1.0.0",
+  "description": "Magic Eightball, with some ability to add non-standard responses, either in addition to or instead of the standard responses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilmae/eightball.git"
+  },
+  "keywords": [
+    "eightball"
+  ],
+  "author": "deadgar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gilmae/eightball/issues"
+  },
+  "homepage": "https://github.com/gilmae/eightball#readme"
+}
